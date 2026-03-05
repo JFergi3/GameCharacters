@@ -1,0 +1,59 @@
+2026-03-05 14:16:50.2834|INFO|GameCharacters.Program|Program started
+2026-03-05 14:16:50.2977|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:17:00.8091|INFO|GameCharacters.Program|Program started
+2026-03-05 14:17:00.8091|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:19:08.4467|INFO|GameCharacters.Program|Program started
+2026-03-05 14:19:08.4467|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:19:14.8990|INFO|GameCharacters.Program|Program started
+2026-03-05 14:19:14.9123|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:21:59.4009|INFO|GameCharacters.Program|Program started
+2026-03-05 14:21:59.4447|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:23:08.5932|INFO|GameCharacters.Program|Program started
+2026-03-05 14:23:11.1540|INFO|GameCharacters.Program|User choice: "1"
+2026-03-05 14:23:14.9446|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:23:14.9446|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:25:29.4995|INFO|GameCharacters.Program|Program started
+2026-03-05 14:25:31.9438|INFO|GameCharacters.Program|User choice: "1"
+2026-03-05 14:26:51.8001|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:26:51.8001|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:26:55.6873|INFO|GameCharacters.Program|Program started
+2026-03-05 14:26:56.8183|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:26:56.8218|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:29:41.7178|INFO|GameCharacters.Program|Program started
+2026-03-05 14:31:53.9392|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:31:53.9392|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:31:57.0229|INFO|GameCharacters.Program|Program started
+2026-03-05 14:34:26.3494|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:34:26.3535|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:34:29.3527|INFO|GameCharacters.Program|Program started
+2026-03-05 14:35:24.4747|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:35:24.4747|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:35:27.4575|INFO|GameCharacters.Program|Program started
+2026-03-05 14:35:27.4943|INFO|GameCharacters.Program|File deserialized mario.json
+2026-03-05 14:36:32.2362|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:36:32.2362|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:36:36.1225|INFO|GameCharacters.Program|Program started
+2026-03-05 14:36:41.8024|INFO|GameCharacters.Program|User choice: "1"
+2026-03-05 14:36:45.3437|INFO|GameCharacters.Program|User choice: "1"
+2026-03-05 14:36:46.3918|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:36:46.3918|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:37:07.8640|INFO|GameCharacters.Program|Program started
+2026-03-05 14:37:07.9009|INFO|GameCharacters.Program|File deserialized mario.json
+2026-03-05 14:37:09.1656|INFO|GameCharacters.Program|User choice: "1"
+2026-03-05 14:37:34.3991|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:37:34.3991|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:38:54.7564|INFO|GameCharacters.Program|Program started
+2026-03-05 14:38:54.7925|INFO|GameCharacters.Program|File deserialized mario.json
+2026-03-05 14:38:57.9064|INFO|GameCharacters.Program|User choice: "1"
+2026-03-05 14:39:03.3685|INFO|GameCharacters.Program|User choice: "2"
+2026-03-05 14:39:41.3974|INFO|GameCharacters.Program|Character added: BashMaster
+2026-03-05 14:39:45.9989|INFO|GameCharacters.Program|User choice: "1"
+2026-03-05 14:39:51.6905|INFO|GameCharacters.Program|User choice: "3"
+2026-03-05 14:40:00.9546|INFO|GameCharacters.Program|Character Id 14 removed
+2026-03-05 14:40:03.0690|INFO|GameCharacters.Program|User choice: "1"
+2026-03-05 14:44:35.8291|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 14:44:35.8291|INFO|GameCharacters.Program|Program ended
+2026-03-05 14:44:40.5066|INFO|GameCharacters.Program|Program started
+2026-03-05 14:44:40.5436|INFO|GameCharacters.Program|File deserialized mario.json
+2026-03-05 14:44:53.8866|INFO|GameCharacters.Program|User choice: "3"
+2026-03-05 14:44:57.4053|ERROR|GameCharacters.Program|Character Id 400 not found
