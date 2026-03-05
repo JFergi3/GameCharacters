@@ -57,3 +57,26 @@
 2026-03-05 14:44:40.5436|INFO|GameCharacters.Program|File deserialized mario.json
 2026-03-05 14:44:53.8866|INFO|GameCharacters.Program|User choice: "3"
 2026-03-05 14:44:57.4053|ERROR|GameCharacters.Program|Character Id 400 not found
+2026-03-05 15:19:41.2108|INFO|GameCharacters.Program|User choice: ""
+2026-03-05 15:19:41.2108|INFO|GameCharacters.Program|Program ended
+2026-03-05 15:19:45.0332|INFO|GameCharacters.Program|Program started
+2026-03-05 15:19:45.0705|INFO|GameCharacters.Program|File deserialized "mario.json"
+2026-03-05 15:19:45.0834|INFO|GameCharacters.Program|File deserialized "dk.json"
+2026-03-05 15:19:45.0924|INFO|GameCharacters.Program|File deserialized "sf2.json"
+2026-03-05 15:19:48.1994|INFO|GameCharacters.Program|Game choice: "2"
+2026-03-05 15:19:58.9318|INFO|GameCharacters.Program|Action choice: "4"
+2026-03-05 15:20:01.1576|INFO|GameCharacters.Program|Game choice: "1"
+2026-03-05 15:20:03.0717|INFO|GameCharacters.Program|Action choice: "4"
+2026-03-05 15:20:39.4617|INFO|GameCharacters.Program|Game choice: "1"
+2026-03-05 15:20:41.5288|INFO|GameCharacters.Program|Action choice: "1"
+2026-03-05 15:20:48.2778|INFO|GameCharacters.Program|Game choice: "2"
+2026-03-05 15:20:50.1526|INFO|GameCharacters.Program|Action choice: "1"
+2026-03-05 15:20:54.7111|INFO|GameCharacters.Program|Game choice: ""
+2026-03-05 15:20:54.7111|INFO|GameCharacters.Program|Program ended
+2026-03-05 15:20:58.4916|INFO|GameCharacters.Program|Program started
+2026-03-05 15:20:58.5293|INFO|GameCharacters.Program|File deserialized "mario.json"
+2026-03-05 15:20:58.5293|INFO|GameCharacters.Program|File deserialized "dk.json"
+2026-03-05 15:20:58.5293|INFO|GameCharacters.Program|File deserialized "sf2.json"
+2026-03-05 15:20:59.5995|INFO|GameCharacters.Program|Game choice: "3"
+2026-03-05 15:21:00.3252|INFO|GameCharacters.Program|Action choice: "1"
+2026-03-05 15:21:03.3985|INFO|GameCharacters.Program|Game choice: "1"

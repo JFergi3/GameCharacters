@@ -15,3 +15,4 @@ C:\Users\jakef\OneDrive\Documents\WCTC\SPRING T1 2026\.Net DB\GameCharacters\obj
 C:\Users\jakef\OneDrive\Documents\WCTC\SPRING T1 2026\.Net DB\GameCharacters\obj\Debug\net8.0\GameCharacters.pdb
 C:\Users\jakef\OneDrive\Documents\WCTC\SPRING T1 2026\.Net DB\GameCharacters\obj\Debug\net8.0\GameCharacters.genruntimeconfig.cache
 C:\Users\jakef\OneDrive\Documents\WCTC\SPRING T1 2026\.Net DB\GameCharacters\obj\Debug\net8.0\ref\GameCharacters.dll
+C:\Users\jakef\OneDrive\Documents\WCTC\SPRING T1 2026\.Net DB\GameCharacters\obj\Debug\net8.0\GameCharacters.sourcelink.json
