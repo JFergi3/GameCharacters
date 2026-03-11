@@ -80,3 +80,14 @@
 2026-03-05 15:20:59.5995|INFO|GameCharacters.Program|Game choice: "3"
 2026-03-05 15:21:00.3252|INFO|GameCharacters.Program|Action choice: "1"
 2026-03-05 15:21:03.3985|INFO|GameCharacters.Program|Game choice: "1"
+2026-03-05 15:24:03.2094|INFO|GameCharacters.Program|Action choice: ""
+2026-03-05 15:24:03.2094|INFO|GameCharacters.Program|Invalid action choice
+2026-03-11 08:51:38.3042|INFO|GameCharacters.Program|Program started
+2026-03-11 08:51:38.3863|INFO|GameCharacters.Program|File deserialized "mario.json"
+2026-03-11 08:51:38.3998|INFO|GameCharacters.Program|File deserialized "dk.json"
+2026-03-11 08:51:38.4104|INFO|GameCharacters.Program|File deserialized "sf2.json"
+2026-03-11 08:51:43.1049|INFO|GameCharacters.Program|Game choice: "1"
+2026-03-11 08:51:46.7617|INFO|GameCharacters.Program|Action choice: "4"
+2026-03-11 08:51:48.3829|INFO|GameCharacters.Program|Game choice: "2"
+2026-03-11 08:51:50.6585|INFO|GameCharacters.Program|Action choice: "4"
+2026-03-11 08:51:52.2774|INFO|GameCharacters.Program|Game choice: "3"
